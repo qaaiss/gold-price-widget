@@ -1,0 +1,6 @@
+site_name: Gold Price Widget
+site_url: https://igold24.com/
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
